@@ -6,7 +6,12 @@ Este projeto demonstra um sistema de busca de locais de doação usando embeddin
 
 Descrição
 
-**O sistema permite que os usuários insiram uma consulta em linguagem natural, como "Onde posso doar roupas em São Paulo?", e retorna uma lista de locais de doação relevantes.**
+Imagine um lugar onde você pode ajudar quem precisa com a mesma facilidade com que faz uma pesquisa na internet. É exatamente isso que este sistema oferece! Quer doar roupas? Basta digitar "Onde posso doar roupas em São Paulo?" e uma lista de locais que acolhem esse tipo de doação, aparece na tela. Simples e rápido, como um passe de mágica, você encontra o lugar ideal para fazer a sua doação e contribuir para um mundo melhor.
+
+E não para por aí! Precisa de ajuda e não sabe onde encontrar? O sistema também te ajuda a encontrar o apoio que você precisa. Digamos que você precise de alimentos. É só perguntar: "Onde posso receber alimentos em São Paulo?". Uma lista completa com locais que oferecem esse tipo de ajuda surge na tela, com endereços e horários de funcionamento, para que você possa ter acesso a esse suporte de forma rápida e fácil.
+
+**Uma mão amiga para quem precisa e outra para quem quer ajudar, construindo pontes de solidariedade e esperança.**
+
 
 **Funcionalidades:**
 
