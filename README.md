@@ -2,6 +2,8 @@
 
 Este projeto demonstra um sistema de busca de locais de doação usando embeddings de texto gerados pelo Google Gemini e uma interface interativa com ipywidgets.
 
+![](./img.png)
+
 Descrição
 
 **O sistema permite que os usuários insiram uma consulta em linguagem natural, como "Onde posso doar roupas em São Paulo?", e retorna uma lista de locais de doação relevantes.**
